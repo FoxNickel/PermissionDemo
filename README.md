@@ -3,6 +3,7 @@
 
 - 用法：
 ```
+Activity或Fragment继承自PermissionGen.OnPermissionCallback接口
 // 申请
 PermissionGen
             .with(this)
